@@ -1,0 +1,19 @@
+{
+    "name": "BeOneChain Testnet",
+    "chain": "BeOneChain Testnet",
+    "rpc": [
+      "https://pre-boc1.beonechain.com/", 
+      "https://pre-boc2.beonechain.com/", 
+      "https://pre-boc3.beonechain.com/"
+    ],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "BeOne",
+      "symbol": "BOC",
+      "decimals": 18
+    },
+    "infoURL": "https://testnet.beonescan.com/",
+    "shortName": "boc",
+    "chainId": 8181,
+    "networkId": 8181
+  }
