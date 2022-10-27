@@ -1,0 +1,15 @@
+{
+    "name": "BeOneChain Mainnet ",
+    "chain": "BeOneChain",
+    "rpc": ["https://dataseed1.beonechain.com/", "https://dataseed2.beonechain.com/", "https://dataseed3.beonechain.com/"],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "BeOne",
+      "symbol": "BOC",
+      "decimals": 18
+    },
+    "infoURL": "https://beonescan.com/",
+    "shortName": "boc",
+    "chainId": 131,
+    "networkId": 131
+  }
